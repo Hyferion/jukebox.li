@@ -1,0 +1,6 @@
+[submodule "jukeboxFront"]
+	path = jukeboxFront
+	url = https://github.com/Hyferion/jukeboxFront.git
+[submodule "jukeboxBack"]
+	path = jukeboxBack
+	url = https://github.com/Hyferion/jukeboxBack
