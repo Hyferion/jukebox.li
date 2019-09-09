@@ -39,6 +39,8 @@ The backend acts as a RESTful API. Handles user authentication, CRUD-operations 
 There is still a lot of room for improvement. Here are the current open tasks, feel free to propose additional ones.
 
 - [ ] Backend authentication, currently a call to the backend needs no authentication. This means everybody can delete playlists, songs etc.
+- [ ] Make it possible to hide the username in a playlist - anonymous user
+- [ ] Implement topic rooms, e.g electrical music, country etc.
 - [ ] Skipping a song that is currently playing
 - [ ] Downvoting a song
 - [ ] Remove a vote
